@@ -13,6 +13,7 @@ In the process of making this model, we need to split the data into training and
   *Recall for 0: 99%
   *Precision for 1: 85%
   *Recall for 1: 91%
+  
 ![image](https://github.com/nkp1027/Module-12-Challenge/assets/133065472/3d7aa451-4a3b-4f4c-9d5c-468012118448)
 *Machine Learning Model 2:
   *Accuracy: 99.4%
@@ -20,6 +21,7 @@ In the process of making this model, we need to split the data into training and
   *Recall for 0: 99%
   *Precision for 1: 84%
   *Precision for 1: 99%
+  
 ![image](https://github.com/nkp1027/Module-12-Challenge/assets/133065472/362b92f2-15e1-4d8e-a4e3-f1915839c4ae)
 ## Summary
 In comparison of the linger regression models whether they were oversampled or the original data, we can appreciate a incread of 4% in accuracy for the second Model. We do lose 1% of precision in the 1 value when we use the oversampled data but we also have a 8% increase in precision in the 1 value for model 2. This is great for the lending services company since this means that the high risk loans will be classified properly. 
