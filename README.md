@@ -28,5 +28,5 @@ In comparison of the linger regression models whether they were oversampled or t
 The balanced accuracy of model 2 is greater than model 1 which we can conclude model 2 to be the best fit since it will be more precise in classufication of loans.
 I recommmend the Model 2 because of this reason.
 
-##Technologies
+## Technologies
 pandas, numpy, sklearn.metrics, sklearn.linear_model, sklearn.train_test_split, imbalanced-learn, google Colab
