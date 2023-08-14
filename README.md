@@ -7,20 +7,20 @@ The amount of healthy loans did outweigh the number of high risk loans in this d
 The goal of this analysis is to make a model to accurately predict if a loan is healthy or high risk.
 In the process of making this model, we need to split the data into training and testing sets, create a logistic regression model with the data from the CSV, predict a logistic regression model with the training data, create a model with resampled data and then use that to predict a logistic regression model. Once all this is done, we must analyze and compare the results.
 ## Results
-*Machine Learning Model 1:
-  *Accuracy: 95.2%
-  *Precision for 0: 100%
-  *Recall for 0: 99%
-  *Precision for 1: 85%
-  *Recall for 1: 91%
+* Machine Learning Model 1:
+  * Accuracy: 95.2%
+  * Precision for 0: 100%
+  * Recall for 0: 99%
+  * Precision for 1: 85%
+  * Recall for 1: 91%
   
 ![image](https://github.com/nkp1027/Module-12-Challenge/assets/133065472/3d7aa451-4a3b-4f4c-9d5c-468012118448)
-*Machine Learning Model 2:
-  *Accuracy: 99.4%
-  *Precision for 0: 100%
-  *Recall for 0: 99%
-  *Precision for 1: 84%
-  *Precision for 1: 99%
+* Machine Learning Model 2:
+  * Accuracy: 99.4%
+  * Precision for 0: 100%
+  * Recall for 0: 99%
+  * Precision for 1: 84%
+  * Precision for 1: 99%
   
 ![image](https://github.com/nkp1027/Module-12-Challenge/assets/133065472/362b92f2-15e1-4d8e-a4e3-f1915839c4ae)
 ## Summary
